@@ -1,0 +1,78 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "lzi",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "bfzy",
+      "name": "暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "hongniu",
+      "name": "红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "subo",
+      "name": "速播资源",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "jszy",
+      "name": "极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "IPv6直播",
+      "type": 0,
+      "url": "https://live.zbds.top/tv/iptv6.m3u",
+      "ua": "",
+      "epg": ""
+    },
+    {
+      "name": "Guovin直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "ua": "",
+      "epg": ""
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "doh": []
+}
